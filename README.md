@@ -57,5 +57,5 @@ python3 -m http.server 5500
 
 Este repositorio funciona como galería/colección de diseños de landing pages para práctica, referencia visual y despliegue estático.
 
-Enlace de el repositorio grupal (continua siendo el mismo repositorio):
-https://github.com/santiagoosorio0708e-wq/landingpages.git 
+Enlace de el repositorio grupal :
+https://github.com/santiagoosorio0708e-wq/landingpagesgrupo.git
