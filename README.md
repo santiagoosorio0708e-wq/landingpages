@@ -47,13 +47,6 @@ También puedes usar un servidor local (recomendado):
 python3 -m http.server 5500
 ```
 
-Luego abre en el navegador:
-
-- `http://localhost:5500/10/`
-- `http://localhost:5500/11/`
-- `http://localhost:5500/12/`
-- ...
-
 ## Tecnologías
 
 - HTML5
@@ -64,3 +57,5 @@ Luego abre en el navegador:
 
 Este repositorio funciona como galería/colección de diseños de landing pages para práctica, referencia visual y despliegue estático.
 
+Enlace de el repositorio grupal (continua siendo el mismo repositorio)
+https://github.com/santiagoosorio0708e-wq/landingpages.git
